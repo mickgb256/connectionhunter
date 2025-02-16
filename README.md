@@ -40,7 +40,10 @@ Usage
 
 Run the script from PowerShell:
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   .\ConnectionHunter.ps1   `
+Powershell
+...
+  .\ConnectionHunter.ps1   `
+...
 
 Optional: To check a remote computer (not currently supported, future feature):
 
