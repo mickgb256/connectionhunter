@@ -42,14 +42,14 @@ Run the script from PowerShell:
 
 Powershell
 ```
-  .\ConnectionHunter.ps1   `
+  .\ConnectionHunter.ps1
 ```
 
 Optional: To check a remote computer (not currently supported, future feature):
 
 Powershell
 ```
-  .\ConnectionHunter.ps1 -RemoteComputer "COMPUTER_NAME"   `
+  .\ConnectionHunter.ps1 -RemoteComputer "COMPUTER_NAME"
 ```
 
 Logging
