@@ -41,13 +41,16 @@ Usage
 Run the script from PowerShell:
 
 Powershell
-...
+```
   .\ConnectionHunter.ps1   `
-...
+```
 
 Optional: To check a remote computer (not currently supported, future feature):
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   .\ConnectionHunter.ps1 -RemoteComputer "COMPUTER_NAME"   `
+Powershell
+```
+  .\ConnectionHunter.ps1 -RemoteComputer "COMPUTER_NAME"   `
+```
 
 Logging
 -------
